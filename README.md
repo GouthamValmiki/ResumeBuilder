@@ -64,3 +64,24 @@ A sample resume is included on first launch so you can explore the app immediate
 - **Architecture:** MVC
 - **Persistence:** FileManager + JSON (Codable)
 - **PDF:** UIGraphicsPDFRenderer
+## 📸 Screenshots
+
+### Home Screen
+
+![Home Screen](Screenshots/Home.png)
+
+### Resume Editor
+
+![Resume Editor](Screenshots/ResumeEditor.png)
+
+### Resume Preview
+
+![Resume Preview](Screenshots/Preview.png)
+
+### ATS Checker
+
+![ATS Checker](Screenshots/ATSChecker.png)
+
+### Career Toolkit
+
+![Career Toolkit](Screenshots/CareerToolkit.png)
