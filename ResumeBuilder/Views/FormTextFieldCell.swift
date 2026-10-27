@@ -52,7 +52,6 @@ final class FormTextFieldCell: UITableViewCell {
         textField.text = text
         textField.keyboardType = keyboardType
     }
-
     @objc private func textDidChange() {
         onTextChanged?(textField.text ?? "")
     }
