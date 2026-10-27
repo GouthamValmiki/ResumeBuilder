@@ -1,5 +1,4 @@
 import UIKit
-
 final class ATSCheckerViewController: UITableViewController {
     private enum Section {
         case fixes
